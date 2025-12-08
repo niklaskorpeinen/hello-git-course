@@ -1,1 +1,5 @@
-print('Hello World!')
+<<<<<<< HEAD
+print("Hello World!")
+
+print("Hello world!")
+>>>>>>> intermediate/master
